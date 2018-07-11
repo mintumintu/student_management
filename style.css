@@ -1,0 +1,21 @@
+body{
+background-color:rgba(128,125,200,0.1);
+font-family:Microsoft Jhenghei;
+}
+div.bgimage{
+background-image:url("images/bgimage");
+}
+div.header{
+background-color:rgba(255,0,255,0.2);
+font-family:Microsoft Jhenghei;
+font-size:50px;
+color:white;
+text-decoration:uppercase;
+}
+div.login{
+background-color:rgba(255,0,255,0.2);
+font-family:Microsoft Jhenghei;
+font-size:25px;
+color:white;
+text-decoration:uppercase;
+}
